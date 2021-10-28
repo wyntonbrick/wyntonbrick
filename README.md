@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wyntonbrick
+- 👋 Hi, I’m Wynton Brick
 - I'm an 19 year old, second year mechatronics engineering student at the University of Auckland. Additionally, I conjoint my degree with commerce, majoring in finance.
 
 //Finish later....
